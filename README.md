@@ -1,6 +1,6 @@
-# todo
+# TODO
 
-A new Flutter project.
+A basic Flutter project for Managing Tasks.
 
 ## Getting Started
 
